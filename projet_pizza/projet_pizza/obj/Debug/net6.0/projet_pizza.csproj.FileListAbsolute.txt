@@ -1,0 +1,17 @@
+C:\Users\HGI\Desktop\C#\projet_pizza\projet_pizza\bin\Debug\net6.0\projet_pizza.exe
+C:\Users\HGI\Desktop\C#\projet_pizza\projet_pizza\bin\Debug\net6.0\projet_pizza.deps.json
+C:\Users\HGI\Desktop\C#\projet_pizza\projet_pizza\bin\Debug\net6.0\projet_pizza.runtimeconfig.json
+C:\Users\HGI\Desktop\C#\projet_pizza\projet_pizza\bin\Debug\net6.0\projet_pizza.dll
+C:\Users\HGI\Desktop\C#\projet_pizza\projet_pizza\bin\Debug\net6.0\projet_pizza.pdb
+C:\Users\HGI\Desktop\C#\projet_pizza\projet_pizza\obj\Debug\net6.0\projet_pizza.csproj.AssemblyReference.cache
+C:\Users\HGI\Desktop\C#\projet_pizza\projet_pizza\obj\Debug\net6.0\projet_pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HGI\Desktop\C#\projet_pizza\projet_pizza\obj\Debug\net6.0\projet_pizza.AssemblyInfoInputs.cache
+C:\Users\HGI\Desktop\C#\projet_pizza\projet_pizza\obj\Debug\net6.0\projet_pizza.AssemblyInfo.cs
+C:\Users\HGI\Desktop\C#\projet_pizza\projet_pizza\obj\Debug\net6.0\projet_pizza.csproj.CoreCompileInputs.cache
+C:\Users\HGI\Desktop\C#\projet_pizza\projet_pizza\obj\Debug\net6.0\projet_pizza.dll
+C:\Users\HGI\Desktop\C#\projet_pizza\projet_pizza\obj\Debug\net6.0\refint\projet_pizza.dll
+C:\Users\HGI\Desktop\C#\projet_pizza\projet_pizza\obj\Debug\net6.0\projet_pizza.pdb
+C:\Users\HGI\Desktop\C#\projet_pizza\projet_pizza\obj\Debug\net6.0\projet_pizza.genruntimeconfig.cache
+C:\Users\HGI\Desktop\C#\projet_pizza\projet_pizza\obj\Debug\net6.0\ref\projet_pizza.dll
+C:\Users\HGI\Desktop\C#\projet_pizza\projet_pizza\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\HGI\Desktop\C#\projet_pizza\projet_pizza\obj\Debug\net6.0\projet_pizza.csproj.CopyComplete
